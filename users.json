@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1755429207844",
+    "email": "alijanhunyaar@gmail.com",
+    "password": "$2b$10$86F1Lye1VTIPLm6T.yoVP.vbr9e4hlTnIxojUz6.AqZfbXJnHRElq",
+    "createdAt": "2025-08-17T11:13:27.844Z"
+  },
+  {
+    "id": "1755681788475",
+    "email": "alijyajjaar@gil.com",
+    "password": "$2b$10$XHWaTBoX3WQe3biHUFm6kuTieavugcwFoQv3qnynDW.TtyayHYdIm",
+    "createdAt": "2025-08-20T09:23:08.475Z"
+  },
+  {
+    "id": "1755681908695",
+    "email": "alexamiss336@gmail.com",
+    "password": "$2b$10$6934SfJE0xLIqFcIigV3Vu85wPSV6wqe86ZSmABnAuJQ46t5ogUyO",
+    "createdAt": "2025-08-20T09:25:08.695Z"
+  }
+]
