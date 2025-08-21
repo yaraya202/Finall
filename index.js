@@ -9,7 +9,7 @@ const session = require('express-session');
 const crypto = require('crypto'); // Import crypto module for key generation
 
 const app = express();
-const port = process.env.PORT || 35000; // Use hosting port or default to 5000
+const port = process.env.PORT || 80; // Use hosting port or default to 5000
 
 // Increase payload limits for better scalability
 app.use(express.json({ limit: '50mb' }));
